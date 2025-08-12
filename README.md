@@ -5,3 +5,5 @@ Tudo oque eu aprender sobre programação, será armazenado aqui, fique a vontad
 
 Observação: Algumas linhas de código podem estar erradas ou não tão eficientes, pois aqui, prezo pelos primeiros projetos e erros,
 (mesmo que estejam errados ou ineficientes) pois quero marcar minha evolução de erros e acertos, e não mostrar perfeição fingindo que sei de tudo e não erro.
+
+*todos os códigos publicados foram criados e feitos 100% por mim. 
